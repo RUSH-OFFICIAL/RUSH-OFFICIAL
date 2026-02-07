@@ -16,8 +16,8 @@
 <a href="https://instagram.com/hrutik_maxx" target="_blank">
      <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 </a>
-<a href="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@hrutik_official)
-
+<a href="https://www.youtube.com/c/tech god" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tech god" height="30" width="40" /></a>
+</p>
 
 
 
