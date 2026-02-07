@@ -18,11 +18,3 @@
 </a>
 <a href="https://youtube.com/@hrutik_official"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
-
-
-
-## 👥 Profile Views  
-
-<p align="center">
-  <img alt="count" src="https://count.getloli.com/get/@: RUSH-OFFICIAL?theme=original-new">
-</p>
