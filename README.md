@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=RUSH-OFFICIAL&label=Profile%20views" alt="M-A-S-T-E-R-12" style="width: 150px;" />
 </p>
 </br>
-</a>
+
 <div align="center"> 
   <a href="mailto:rushmaster2k@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
