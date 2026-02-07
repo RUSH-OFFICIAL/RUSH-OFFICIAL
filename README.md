@@ -18,3 +18,4 @@
 </a>
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@hrutik_official)
+<a href="https://youtube.com/@s4salmanyt"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
