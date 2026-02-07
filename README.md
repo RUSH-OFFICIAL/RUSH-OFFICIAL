@@ -16,3 +16,9 @@
 <a href="https://instagram.com/hrutik_maxx" target="_blank">
      <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 </a>
+  
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube)](https://www.youtube.com/@hrutik_official)
+
+
+
+
