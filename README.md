@@ -29,32 +29,23 @@
     alt="GitHub - H-R-U-T-I-K"
     class="github-3d"
   >
-</a>
+<div class="rainbow"></div>
 
 <style>
-.github-3d {
-  width: 60px;
-  border-radius: 50%;
-  animation: rainbow3d 3s linear infinite;
-  filter:
-    drop-shadow(4px 4px 0 #ff0000)
-    drop-shadow(6px 6px 0 #ff8c00)
-    drop-shadow(8px 8px 0 #00ff00)
-    drop-shadow(10px 10px 0 #008cff)
-    drop-shadow(0 0 15px #ff00ff);
-  transition: transform 0.3s;
+.rainbow {
+  width: 300px;
+  height: 30px;
+  border-radius: 20px;
+  background: linear-gradient(
+    90deg,
+    red, orange, yellow, green, cyan, blue, violet, red
+  );
+  background-size: 400% 100%;
+  animation: rainbow 3s linear infinite;
 }
 
-.github-3d:hover {
-  transform: scale(1.2) rotateY(25deg) rotateX(15deg);
-}
-
-@keyframes rainbow3d {
-  0% {
-    filter: hue-rotate(0deg) drop-shadow(6px 6px 8px #ff0000);
-  }
-  100% {
-    filter: hue-rotate(360deg) drop-shadow(6px 6px 8px #ff0000);
-  }
+@keyframes rainbow {
+  0%   { background-position: 0% 50%; }
+  100% { background-position: 400% 50%; }
 }
 </style>
