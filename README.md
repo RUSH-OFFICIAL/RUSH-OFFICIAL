@@ -24,3 +24,8 @@
 
 <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
      alt="GitHub" width="40">
+     <a href="https://github.com/H-R-U-T-I-K" target="_blank">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+       alt="GitHub - H-R-U-T-I-K"
+       width="40">
+</a>
