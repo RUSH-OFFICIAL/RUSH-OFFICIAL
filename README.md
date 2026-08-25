@@ -23,10 +23,7 @@
        alt="GitHub - H-R-U-T-I-K"
        width="50">
 </a>
-
-
-
-<a href="https://github.com/H-R-U-T-I-K" target="_blank">
+  <a href="https://github.com/H-R-U-T-I-K" target="_blank">
   <img
     src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
     alt="GitHub - H-R-U-T-I-K"
