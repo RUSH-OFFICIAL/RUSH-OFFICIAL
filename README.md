@@ -24,3 +24,16 @@
        width="50">
 </a>
   
+
+
+<div align="center">
+
+# 🌈 My GitHub Profile
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Keep+Coding+%F0%9F%9A%80;Build+Something+Awesome+%F0%9F%8C%88" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=twinkling" />
+
+</div>
