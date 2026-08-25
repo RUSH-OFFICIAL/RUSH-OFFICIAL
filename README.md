@@ -23,29 +23,4 @@
        alt="GitHub - H-R-U-T-I-K"
        width="50">
 </a>
-  <a href="https://github.com/H-R-U-T-I-K" target="_blank">
-  <img
-    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
-    alt="GitHub - H-R-U-T-I-K"
-    class="github-3d"
-  >
-<div class="rainbow"></div>
-
-<style>
-.rainbow {
-  width: 300px;
-  height: 30px;
-  border-radius: 20px;
-  background: linear-gradient(
-    90deg,
-    red, orange, yellow, green, cyan, blue, violet, red
-  );
-  background-size: 400% 100%;
-  animation: rainbow 3s linear infinite;
-}
-
-@keyframes rainbow {
-  0%   { background-position: 0% 50%; }
-  100% { background-position: 400% 50%; }
-}
-</style>
+  
