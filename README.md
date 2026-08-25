@@ -18,3 +18,9 @@
 </a>
 <a href="https://youtube.com/@hrutik_official"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
+
+
+
+
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" 
+     alt="GitHub" width="40">
