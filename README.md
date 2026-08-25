@@ -16,11 +16,8 @@
 <a href="https://instagram.com/hrutik_maxx" target="_blank">
      <img src="https://img.shields.io/badge/instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
 </a>
-<a href="https://youtube.com/@hrutik_official"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-
-
-
-<div align="center">
+<a href="https://youtube.com/@hrutik_official"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 <a href="https://github.com/H-R-U-T-I-K" target="_blank">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
        alt="GitHub - H-R-U-T-I-K"
