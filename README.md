@@ -1,4 +1,4 @@
-![Aswin Sparky's card name](https://sparkycardview.vercel.app/api?name=RUSH%20-OFFICIAL&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/217618894s=400&u=4328290c845e92c5f1641c9a61d43862deb6eec3&v=4&backgroundColor=%23ecf0f1&instagram=hrutik_maxx&github=RUSH-OFFICIAL&pattern=leaf&colorPattern=%23eaeaea)
+![Aswin Sparky's card name](https://sparkycardview.vercel.app/api?name=RUSH%20OFFICIAL&description=ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs.+ɪ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs.+ɪ+ᴍᴀᴋᴇ+ᴛʜɪɴɢs+ᴛʜᴀᴛ+ʙʀᴇᴀᴋ+ᴛʜɪɴɢs&image=https://avatars.githubusercontent.com/u/217618894s=400&u=4328290c845e92c5f1641c9a61d43862deb6eec3&v=4&backgroundColor=%23ecf0f1&instagram=hrutik_maxx&github=RUSH-OFFICIAL&pattern=leaf&colorPattern=%23eaeaea)
 </p>
 </p>  
 </br>  
